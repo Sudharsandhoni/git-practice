@@ -59,3 +59,10 @@ let failIndexes = rows.reduce((arr, row , index) => {
 }, [])
 
 console.log(failIndexes)
+
+const users = ["A", "B", "C"];
+
+users.length = 1;
+
+console.log(users);
+console.log(users[1]);
