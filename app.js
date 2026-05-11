@@ -1,2 +1,2 @@
 const env = 'stage'
-const retries = 5;
+const retries = 2;
