@@ -1,2 +1,2 @@
 const env = 'stage'
-const retries = 2;
+const retries = 2 * 4;
