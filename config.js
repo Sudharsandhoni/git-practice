@@ -1,5 +1,5 @@
 const config = {
-  timeout: 5000,
+  timeout: 7000,
   retries: 1
 };
 
